@@ -17,7 +17,7 @@ Bonus Features
 --Clone the repository:
 
 Copy code
---git clone https://github.com/yourusername/emailservice.git
+--git clone https://github.com/SvickyB/Resilent_Mail_Sender
 --cd emailservice
 
 Install dependencies:
